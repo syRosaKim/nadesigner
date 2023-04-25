@@ -25,8 +25,6 @@ Java 1.8
 
 ![install2](https://user-images.githubusercontent.com/45158796/170095360-2922e3dd-ad21-4948-b379-84e78578be49.png)
 
-![install3](https://user-images.githubusercontent.com/45158796/170095358-e864c7d7-2e68-4983-a652-bef67b0311d0.png)
-
 ![install4](https://user-images.githubusercontent.com/45158796/170095368-f4155685-d29a-48c6-9667-f63f50ca09cd.png)
 
 ![install5](https://user-images.githubusercontent.com/45158796/170095364-6a4b9d08-bad6-4159-83d9-83d734fda725.png)
