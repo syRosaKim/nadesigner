@@ -153,3 +153,5 @@ Java 1.8
   - Jaehyeok Jeong
   - Jaehee Kim
   - Jinman Jung
+  - Bongjae Kim
+  - Jinsung Cho
